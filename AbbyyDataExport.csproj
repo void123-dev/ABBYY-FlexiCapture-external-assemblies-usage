@@ -31,6 +31,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ControllerInterop">
+      <HintPath>..\..\..\Desktop\DM Solutions\Visual Studio\dms.ingos.fc base project_2023-07-17\dms.ingos.fc base project\dll\ControllerInterop.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Aliases>global, aControllerInterlop</Aliases>
+    </Reference>
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />

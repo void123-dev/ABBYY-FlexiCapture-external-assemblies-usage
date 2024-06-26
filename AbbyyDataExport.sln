@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbbyyDataExport", "AbbyyDataExport.csproj", "{FD7ABA82-14E7-402E-8FFE-FE84635C61DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7ABA82-14E7-402E-8FFE-FE84635C61DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7ABA82-14E7-402E-8FFE-FE84635C61DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7ABA82-14E7-402E-8FFE-FE84635C61DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7ABA82-14E7-402E-8FFE-FE84635C61DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4988584-9A15-4080-8A97-18204CA1B5FA}
+	EndGlobalSection
+EndGlobal

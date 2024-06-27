@@ -1,4 +1,12 @@
-﻿extern alias aControllerInterlop;
+﻿/*
+ * FlexiCapture script objects are stored in the ControllerInterop.dll and ShellInterop.dll assemblies 
+ * and belong to the ABBYY.FlexiCapture and ABBYY.FlexiCapture.ClientUI namespaces, accordingly. 
+ * The assemblies are located in the root folder of the program.
+ * 
+ */
+
+
+extern alias aControllerInterlop;
 using aControllerInterlop::ABBYY.FlexiCapture;
 using System;
 using System.Windows;
